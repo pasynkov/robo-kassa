@@ -1,5 +1,5 @@
 {
-  "name": "robokassa",
+  "name": "robo-kassa",
   "version": "0.0.1",
   "description": "Robokassa payment module",
   "main": "index.js",
