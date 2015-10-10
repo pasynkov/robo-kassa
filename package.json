@@ -1,0 +1,27 @@
+{
+  "name": "Robokassa",
+  "version": "0.0.1",
+  "description": "Robokassa payment module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pasynkov/robo-kassa"
+  },
+  "keywords": [
+    "robokassa",
+    "payment"
+  ],
+  "author": "Nikolay Pasynkov",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/pasynkov/robo-kassa/issues"
+  },
+  "homepage": "https://github.com/pasynkov/robo-kassa",
+  "dependencies": {
+    "coffee-script": "^1.10.0"
+  }
+}
